@@ -26,7 +26,7 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+Nestjs socket.io server for remote desktop connection
 
 ## Installation
 
